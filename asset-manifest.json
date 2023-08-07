@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Create-heroes-App/static/css/main.9e026656.css",
+    "main.js": "/Create-heroes-App/static/js/main.d09a7017.js",
+    "static/media/hero_bg.jpg": "/Create-heroes-App/static/media/hero_bg.0540b794b0424b67d780.jpg",
+    "index.html": "/Create-heroes-App/index.html",
+    "main.9e026656.css.map": "/Create-heroes-App/static/css/main.9e026656.css.map",
+    "main.d09a7017.js.map": "/Create-heroes-App/static/js/main.d09a7017.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e026656.css",
+    "static/js/main.d09a7017.js"
+  ]
+}
